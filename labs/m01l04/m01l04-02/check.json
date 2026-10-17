@@ -1,0 +1,21 @@
+{
+  "lab": "m01l04-02",
+  "lesson": "m01l04",
+  "title": "Interleaved Slots",
+  "mode": "graded",
+  "runner": "node-ts",
+  "command": "node interleaved_slots.ts",
+  "main": "interleaved_slots.ts",
+  "files": [
+    "interleaved_slots.ts",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "node"
+  ],
+  "note": null
+}

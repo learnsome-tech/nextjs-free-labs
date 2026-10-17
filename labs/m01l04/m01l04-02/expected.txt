@@ -1,0 +1,4 @@
+Wrapper component: div.client-shell
+Header label: Reports
+Embedded child type: article.server-feed
+Embedded payload: Secure database payload

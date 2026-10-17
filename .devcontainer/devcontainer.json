@@ -1,0 +1,19 @@
+{
+  "name": "Next.js 15 & Modern App Router Architecture labs",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "vscode",
+  "updateRemoteUserUID": false,
+  "postCreateCommand": "npm ci --no-audit --no-fund",
+  "customizations": {
+    "codespaces": {
+      "openFiles": [
+        "README.md"
+      ]
+    },
+    "vscode": {
+      "extensions": []
+    }
+  }
+}

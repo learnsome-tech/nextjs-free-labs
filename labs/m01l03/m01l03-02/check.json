@@ -1,0 +1,21 @@
+{
+  "lab": "m01l03-02",
+  "lesson": "m01l03",
+  "title": "Client Hydration",
+  "mode": "graded",
+  "runner": "node-ts",
+  "command": "node client_hydration.ts",
+  "main": "client_hydration.ts",
+  "files": [
+    "client_hydration.ts",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "node"
+  ],
+  "note": null
+}

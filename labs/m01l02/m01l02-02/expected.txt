@@ -1,0 +1,2 @@
+Aggregated services: 2
+Average latency: 21 ms

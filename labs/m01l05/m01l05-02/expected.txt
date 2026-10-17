@@ -1,0 +1,2 @@
+Sanitized keys: user, id
+Passed user prop: Ada

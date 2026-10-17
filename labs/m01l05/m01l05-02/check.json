@@ -1,0 +1,21 @@
+{
+  "lab": "m01l05-02",
+  "lesson": "m01l05",
+  "title": "Boundary Guard",
+  "mode": "graded",
+  "runner": "node-ts",
+  "command": "node boundary_guard.ts",
+  "main": "boundary_guard.ts",
+  "files": [
+    "boundary_guard.ts",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "node"
+  ],
+  "note": null
+}

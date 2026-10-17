@@ -1,0 +1,3 @@
+Rendered root tag: main
+Resolved item count: 2
+Products: Enterprise Gateway, Edge Node Daemon

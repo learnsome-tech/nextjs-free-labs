@@ -1,0 +1,21 @@
+{
+  "lab": "m01l02-02",
+  "lesson": "m01l02",
+  "title": "Server Constraints",
+  "mode": "graded",
+  "runner": "node-ts",
+  "command": "node server_constraints.ts",
+  "main": "server_constraints.ts",
+  "files": [
+    "run.sh",
+    "server_constraints.ts",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "node"
+  ],
+  "note": null
+}
